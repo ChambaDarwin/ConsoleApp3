@@ -19,6 +19,7 @@ namespace ConsoleApp3
             Console.Read();
             Console.ReadLine();
             Console.Read();
+            Console.ReadLine();
         }
        
     }
