@@ -14,6 +14,8 @@ namespace ConsoleApp3
             int nombre=Console.Read();
             char letra=(char)nombre;
             Console.WriteLine(letra);
+            Console.Read();
+            Console.ReadLine();
         }
        
     }
