@@ -16,6 +16,9 @@ namespace ConsoleApp3
             Console.WriteLine(letra);
             Console.Read();
             Console.ReadLine();
+            Console.Read();
+            Console.ReadLine();
+            Console.Read();
         }
        
     }
